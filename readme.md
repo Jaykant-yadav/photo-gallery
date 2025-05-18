@@ -1,4 +1,5 @@
 # 📷 Masonry Image Gallery
+#### 🔗 Live Demo -> [Click here](https://jaykant-yadav.github.io/photo-gallery/)
 
 A responsive image gallery using a **masonry layout** with **modal view**. Built with HTML, CSS, and JavaScript — no external libraries required.
 
