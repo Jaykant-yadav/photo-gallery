@@ -11,6 +11,7 @@ A responsive image gallery using a **masonry layout** with **modal view**. Built
 - 🖼️ Click image to open in fullscreen modal
 - 🖱️ Hover zoom effect
 - 🥇 Download feature With share anywhere
+- 📷 image auto change like - slide shows
 
 ---
 
